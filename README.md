@@ -1,5 +1,10 @@
 # Visual_Information_Processing_And_Management
-Image processing, fine-grained food classification, similarity retrieval (category search)
+
+The project consists in the development of an application for the recognition of two-dimensional signals (images) of fine-grained food. Specifically we have developed three different tasks:
+
+1. Image pre-processing: pipeline definition for quality improvement
+2. Fine-grained food classification
+3. Similarity retrieval (category search)
 
 # References
 [1] Kaur, Parneet, et al. "Foodx-251: a dataset for fine-grained food classification." arXiv preprint arXiv:1907.06167 (2019).
