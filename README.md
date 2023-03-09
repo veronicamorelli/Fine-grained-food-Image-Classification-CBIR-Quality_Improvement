@@ -6,6 +6,9 @@ The project consists in the development of an application for the recognition of
 2. Fine-grained food classification
 3. Similarity retrieval (category search)
 
+# How to run the code
+Unless otherwise specified in the notebook section all codes can be runned in Google Colaboratory platform. All notebooks all already setted to import the necessary packages and also in this way you can easily use a GPU!
+
 # References
 [1] Kaur, Parneet, et al. "Foodx-251: a dataset for fine-grained food classification." arXiv preprint arXiv:1907.06167 (2019).
 
