@@ -46,3 +46,8 @@ Unless otherwise specified in the notebook section all codes can be runned in Go
 [6] Muhammad, Usman, et al. "Bag of words KAZE (BoWK) with two‐step classification for high‐resolution remote sensing images." IET Computer Vision 13.4 (2019): 395-403.
 Rego, Joshua D., et al. "Deep camera obscura: an image restoration pipeline for pinhole photography." Optics Express 30.15 (2022): 27214-27235.
 
+# About us
+
+#### Davide Valoti - Data Science Student @ University of Milano-Bicocca
+  * [GitHub](https://github.com/valots12)
+  * [LinkedIn](https://www.linkedin.com/in/davidevaloti) 
