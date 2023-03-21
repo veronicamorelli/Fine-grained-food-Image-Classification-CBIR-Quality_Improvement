@@ -1,4 +1,4 @@
- # Fine-grained Food Image Classification, Content-Based Image Retrival, Quality Improvement
+ # Fine-grained Food Image Classification, Content-Based Image Retrival, Quality Enhancement
 
 The project consists in the development of an application for the recognition of two-dimensional signals (images) of fine-grained food. Specifically we have developed three different tasks:
 
